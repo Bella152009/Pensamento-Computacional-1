@@ -8,4 +8,4 @@ Meu nome é Isabella Gonçalves
 
 Você pode entrar em contato comigo
 
-@Isabella.furman@escola.pr.gov.br
+Isabella.furman@escola.pr.gov.br
