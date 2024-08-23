@@ -1,4 +1,4 @@
-Boas vindas ao meu perfil 🫀
+Boas vindas ao meu perfil
 
 Meu nome é Isabella Gonçalves
 
@@ -6,6 +6,6 @@ Meu nome é Isabella Gonçalves
     Estou me desenvolvendo na linguagem JavaScript
     Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-Você pode entrar em contato comigo 📧
+Você pode entrar em contato comigo
 
 Isabella.furman@escola.pr.gov.br
